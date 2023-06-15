@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.drawer">
    <application
-        android:label="drawer"
+        android:label="App drawer"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
